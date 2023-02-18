@@ -597,7 +597,7 @@ small.text {
 }
 
 .section-padding {
-  padding: 100px 0;
+  padding: 0px 0;
 }
 
 .swiper-pagination {
@@ -4647,12 +4647,13 @@ header.style-15 .countdown-content .logos img {
   position: relative;
 }
 .about.style-1 .content {
-  padding: 65px 120px;
+  padding: 0px 120px;
   background: var(--color-main-grad);
   position: relative;
   border-radius: 10px;
   overflow: hidden;
   z-index: 5;
+  padding-bottom: 30px;
 }
 .about.style-1 .content .about_shap {
   position: absolute;
