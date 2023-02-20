@@ -597,7 +597,7 @@ small.text {
 }
 
 .section-padding {
-  padding: 100px 0;
+  padding: 0px 0;
 }
 
 .swiper-pagination {
@@ -2081,10 +2081,10 @@ small.text {
 }
 .section-head.style-4 h2 span {
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-image: -webkit-gradient(linear, left top, right top, from(#501e9c), color-stop(30%, #8169f1), color-stop(30%, #8169f1), color-stop(73%, #a44cee), to(#ff847f));
+  -webkit-text-fill-color: #0d6efd;
+  /* background-image: -webkit-gradient(linear, left top, right top, from(#501e9c), color-stop(30%, #8169f1), color-stop(30%, #8169f1), color-stop(73%, #a44cee), to(#ff847f));
   background-image: -o-linear-gradient(left, #501e9c 0%, #8169f1 30%, #8169f1 30%, #a44cee 73%, #ff847f 100%);
-  background-image: linear-gradient(to right, #501e9c 0%, #8169f1 30%, #8169f1 30%, #a44cee 73%, #ff847f 100%);
+  background-image: linear-gradient(to right, #501e9c 0%, #8169f1 30%, #8169f1 30%, #a44cee 73%, #ff847f 100%); */
 }
 .section-head.style-4 h5 {
   font-size: 16px;
@@ -4647,12 +4647,13 @@ header.style-15 .countdown-content .logos img {
   position: relative;
 }
 .about.style-1 .content {
-  padding: 65px 120px;
+  padding: 0px 120px;
   background: var(--color-main-grad);
   position: relative;
   border-radius: 10px;
   overflow: hidden;
   z-index: 5;
+  padding-bottom: 30px;
 }
 .about.style-1 .content .about_shap {
   position: absolute;
