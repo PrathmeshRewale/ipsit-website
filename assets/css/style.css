@@ -95,16 +95,16 @@ TABLE OF CONTENTS:-
 }
 
 .color-main {
-  color: var(--color-main) !important;
+  color: #198754 !important;
 }
 
 .border-main {
-  border-color: var(--color-main) !important;
+  border-color: #198754 !important;
 }
 
 .bg-main {
-  background-color: var(--color-main) !important;
-  border-color: var(--color-main) !important;
+  background-color: #198754 !important;
+  border-color: #198754 !important;
 }
 
 .color-lightBlue {
@@ -444,7 +444,7 @@ body.style-6 {
   color: #000;
 }
 .home-style-8 a:hover {
-  color: var(--color-main);
+  color: #198754;
 }
 
 .home-style-11 .btn * {
@@ -636,13 +636,13 @@ small.text {
 }
 
 .swiper-pagination-bullet-active {
-  background-color: var(--color-main);
+  background-color: #198754;
   border-radius: 5px;
 }
 
 .swiper-button-next:after,
 .swiper-button-prev:after {
-  color: var(--color-main);
+  color: #198754;
   font-size: 15px;
   font-weight: bold;
 }
@@ -1881,7 +1881,7 @@ small.text {
 }
 .butn:hover,
 .btn:hover {
-  background: var(--color-main);
+  background: #198754;
   border-color: transparent !important;
 }
 .butn:hover span,
@@ -2154,7 +2154,7 @@ small.text {
 .section-head.style-8 h6 {
   font-weight: normal;
   font-size: 14px;
-  color: var(--color-main);
+  color: #198754;
   text-decoration: underline;
   text-transform: uppercase;
   margin-bottom: 10px;
@@ -2273,7 +2273,7 @@ small.text {
 
 /* --------------- top navbar styles --------------- */
 .top-navbar.style-1 {
-  background: var(--color-main-grad);
+  background: linear-gradient(45deg, black, #198754);
   position: relative;
   z-index: 9999;
 }
@@ -2284,7 +2284,7 @@ small.text {
   margin: 0 10px;
 }
 .top-navbar.style-1 .top-links .text .fa-bullhorn {
-  background-color: #002ec1;
+  background-color: #198754;
   padding: 15px;
 }
 .top-navbar.style-1 .r-side {
@@ -2650,7 +2650,7 @@ small.text {
 }
 
 .navbar.style-1 {
-  padding: 30px 0;
+  padding: 0px 0;
 }
 .navbar.style-1 .navbar-brand {
   margin-right: 40px;
@@ -2664,7 +2664,7 @@ small.text {
   text-transform: capitalize;
 }
 .navbar.style-1 .navbar-nav .nav-item .nav-link.active {
-  color: var(--color-main);
+  color: #198754;
 }
 .navbar.style-1 .nav-side {
   display: -webkit-box;
@@ -3398,7 +3398,7 @@ header.style-1 .info .bttns .vid-btn i {
   outline: 6px solid #157aa620;
 }
 header.style-1 .info .bttns .vid-btn span {
-  color: var(--color-main);
+  color: #198754;
   font-size: 12px;
   font-weight: bold;
 }
@@ -5318,7 +5318,7 @@ header.style-15 .countdown-content .logos img {
           align-items: center;
 }
 .about.style-8 .info .author .inf p {
-  color: var(--color-main);
+  color: #198754;
 }
 .about.style-8 .info .author .inf h6 {
   font-size: 18px;
@@ -5570,7 +5570,7 @@ header.style-15 .countdown-content .logos img {
   font-weight: bold;
 }
 .services.style-1 .service-box h5 .num {
-  color: var(--color-main);
+  color: #198754;
   font-size: 12px;
 }
 .services.style-1 .service-box .icon {
@@ -5600,7 +5600,7 @@ header.style-15 .countdown-content .logos img {
           box-shadow: 0px 54px 115px 0px rgba(52, 60, 66, 0.25);
 }
 .services.style-1 .service-box:hover h5 a {
-  color: var(--color-main);
+  color: #198754;
 }
 
 .tags.style-2 a {
@@ -5875,10 +5875,10 @@ header.style-15 .countdown-content .logos img {
 .services.style-8 .service-card.style-8:hover {
   -webkit-box-shadow: none;
           box-shadow: none;
-  border-color: var(--color-main);
+  border-color: #198754;
 }
 .services.style-8 .service-card.style-8:hover .info a {
-  color: var(--color-main);
+  color: #198754;
 }
 .services.style-8 .service-card.style-8 .icon {
   margin-bottom: 10px;
@@ -6571,7 +6571,7 @@ header.style-15 .countdown-content .logos img {
   background-color: #eef4f8;
 }
 .portfolio.style-1 .portfolio-card:hover h5 a {
-  color: var(--color-main);
+  color: #198754;
 }
 
 .projects.style-3 {
@@ -6875,12 +6875,12 @@ header.style-15 .countdown-content .logos img {
 .projects.style-8 .img .tags a {
   text-transform: uppercase;
   background-color: #fff;
-  color: var(--color-main);
+  color: #198754;
   padding: 5px 20px;
   border-radius: 30px;
 }
 .projects.style-8 .img .tags a:hover {
-  background-color: var(--color-main);
+  background-color: #198754;
   color: #fff;
 }
 .projects.style-8 .img .img-chart {
@@ -6933,7 +6933,7 @@ header.style-15 .countdown-content .logos img {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: var(--color-main);
+  background-color: #198754;
   line-height: 40px;
   text-align: center;
   color: #fff;
@@ -7751,7 +7751,7 @@ header.style-15 .countdown-content .logos img {
           align-items: center;
 }
 .testimonials.style-8 .testi-card .author .inf p {
-  color: var(--color-main);
+  color: #198754;
   text-transform: uppercase;
 }
 .testimonials.style-8 .testi-card .author .inf h6 {
@@ -8563,7 +8563,7 @@ header.style-15 .countdown-content .logos img {
   transition: 0s;
 }
 .pricing.style-8 .pricing-head .ui-slider-horizontal .ui-slider-range-min {
-  background-color: var(--color-main);
+  background-color: #198754;
 }
 .pricing.style-8 .pricing-head .users-number {
   color: #606060;
@@ -8699,7 +8699,7 @@ header.style-15 .countdown-content .logos img {
 }
 .pricing.style-8 .pricing-body .pricing-card .price p {
   font-size: 16px;
-  color: var(--color-main);
+  color: #198754;
   font-weight: bold;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -8712,7 +8712,7 @@ header.style-15 .countdown-content .logos img {
   width: 100%;
   height: 60px;
   border-radius: 50px;
-  background-color: var(--color-main);
+  background-color: #198754;
   color: #fff;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -8997,7 +8997,7 @@ header.style-15 .countdown-content .logos img {
   color: #fff;
 }
 .team.style-1 .content .team_box:hover .info h6 {
-  color: var(--color-main);
+  color: #198754;
 }
 .team.style-1.team-blue2 .content .team_box .social_icons a:hover {
   background: var(--color-blue2);
@@ -9372,7 +9372,7 @@ header.style-15 .countdown-content .logos img {
   transition: all 0.3s ease;
 }
 .blog.style-1 .content .blog_box .info h6:hover a {
-  color: var(--color-main);
+  color: #198754;
 }
 .blog.style-1 .content .blog_box .info .auther {
   display: -webkit-box;
@@ -9581,12 +9581,12 @@ header.style-15 .countdown-content .logos img {
 .blog.style-8 .main-post .img .tags a {
   text-transform: uppercase;
   background-color: #fff;
-  color: var(--color-main);
+  color: #198754;
   padding: 5px 20px;
   border-radius: 30px;
 }
 .blog.style-8 .main-post .img .tags a:hover {
-  background-color: var(--color-main);
+  background-color: #198754;
   color: #fff;
 }
 .blog.style-8 .main-post .info h4.title {
@@ -12411,7 +12411,7 @@ footer.style-1 li {
   color: #aaa7a7;
 }
 footer.style-1 a:hover {
-  color: var(--color-main);
+  color: #198754;
 }
 footer.style-1 .text {
   color: #fff;
@@ -12421,7 +12421,7 @@ footer.style-1 .foot_info li {
   margin: 20px 0;
 }
 footer.style-1 .foot_info li i {
-  color: var(--color-main);
+  color: #198754;
   font-size: 16px;
 }
 footer.style-1 .social_icons {
@@ -12781,7 +12781,7 @@ footer.style-8 .content .logo-social .socials a {
           margin-inline-start: 8px;
 }
 footer.style-8 .content .logo-social .socials a:hover {
-  background-color: var(--color-main);
+  background-color: #198754;
   color: #fff;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -13349,7 +13349,7 @@ footer.style-15 .foot p {
 }
 .inner-header.style-5 .content .links a:last-of-type {
   font-weight: bold;
-  color: var(--color-main);
+  color: #198754;
   border: 0;
   padding: 0;
   margin: 0;
